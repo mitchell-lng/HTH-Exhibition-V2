@@ -10,6 +10,10 @@ html, body {
     height: 100%;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 #background {
     background: linear-gradient(-45deg, rgba(231, 188, 84, 0.8), rgba(43, 76, 101, 0.1));
     background-color: rgb(231, 188, 84);
@@ -182,7 +186,7 @@ main:not(#body) section h1 {
 
 #grid-view > article {
     width: 20vw;
-    min-width: 200px;
+    min-width: 350px;
     margin-bottom: 10px;
 }
 
