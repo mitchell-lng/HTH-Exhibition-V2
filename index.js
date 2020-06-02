@@ -52,7 +52,7 @@ function createPage() {
 
 function loadData() {
     let result;
-    const url = "https://raw.githubusercontent.com/monkie1357/hthexhibition/master/exhibitions.json";
+    const url = "https://raw.githubusercontent.com/monkie1357/hthexhibitionV2/master/exhibitions.json";
     const request = new XMLHttpRequest();
     request.open('GET', url);
     request.responseType = "text";
