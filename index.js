@@ -2,11 +2,15 @@ var data;
 
 $(document).ready(function () {
     loadData();
+
+    $("#student").on("change paste keyup", function() {
+        createPage();
+    });
 });
 
 function resetPage() {
-    const gridView = document.getElementById("grid-view");
-    while (document.getElementById("grid-view").children.length > 1) {
+    const gridView = document.getElementById("groups");
+    while (document.getElementById("groups").children.length > 1) {
         gridView.removeChild(gridView.lastElementChild);
     }
 
@@ -14,45 +18,47 @@ function resetPage() {
 
 function createPage() {
     resetPage();
-    const gridView = document.getElementById("grid-view");
+    const groups = document.getElementById("groups");
 
     for (let x = 0; x < data.length; x++) {
         const i = data[x];
 
-        const article = document.createElement("article");
-        const exhibitionPicture = document.createElement("div");
-        const wrap = document.createElement("div");
+        var search_student = $( "#student" ).val().toLowerCase();
+        var student_name = i.teacher;
+        if (!("" == search_student)) {
+            for (var y; y > i.length; y++) {
+                var name = y.toLowerCase();
+                if (name.match(search_student) == null) {               continue; 
+                }
+            }
+            
+        }
 
-        const title = document.createElement("span");
-        const teacher = document.createElement("span");
-        const body = document.createElement("span");
+        const row = document.createElement("div");
+        row.setAttribute("class", "row");
 
-        article.setAttribute("class", "indi-bg");
-        exhibitionPicture.setAttribute("class", "exhibition-picture");
-        wrap.setAttribute("class", "wrap white-text");
-        title.setAttribute("class", "title");
-        teacher.setAttribute("class", "teacher");
-        body.setAttribute("class", "body-text");
+        const group_name = document.createElement("span");
+        group_name.setAttribute("class", "name")
+        group_name.textContent = i.name;
 
-        exhibitionPicture.setAttribute("style", "background-image: url('" + i.image + "')");
+        const students_div = document.createElement("div");
+        students_div.setAttribute("class", "students");
 
-        title.textContent = i.title;
-        teacher.textContent = i.teacher;
-        body.textContent = i.content;
+        var students = i.students;
+        students.sort();
+        var student;
+        for (var z; z > i.students.length; z++) {
+            student = document.createElement("span");
+            student.textContent = students[z];
+        }
 
-        article.append(exhibitionPicture);
-        article.append(wrap);
-        wrap.append(title);
-        wrap.append(teacher);
-        wrap.append(body);
-
-        gridView.append(article);
+        groups.append(article);
     }
 }
 
 function loadData() {
     let result;
-    const url = "https://raw.githubusercontent.com/monkie1357/hthexhibitionV2/master/exhibitions.json";
+    const url = "https://raw.githubusercontent.com/monkie1357/hthexhibitionV2/master/groups.json";
     const request = new XMLHttpRequest();
     request.open('GET', url);
     request.responseType = "text";

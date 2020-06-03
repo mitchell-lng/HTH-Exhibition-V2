@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Group A",
+        "students": [
+            "Mitchell Long",
+            "Scott Semtner"
+        ],
+        "link": "https://hthmfarmtomesa.com"
+    },
+    {
+        "name": "Group B",
+        "students": [
+            "Noah Fletcher",
+            "Avery Whitney"
+        ]
+    }
+]

@@ -171,6 +171,7 @@ main:not(#body) section h1 {
 #instructions span {
     padding: 40px;
     margin: calc(20px + 2vw);
+    min-width: 200px;
 }
 
 #body section h1, #instructions h1 {
@@ -215,10 +216,64 @@ main:not(#body) section h1 {
     margin-bottom: 10px;
 }
 
-.exhibition-picture {
-    min-height: 300px;
-    background-position: center center;
-    margin: 0;
+form {
+    background-color: #284B63;
+    padding: calc(2vw + 10px);
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+form label {
+    color: white;
+}
+
+form > * {
+    font-family: 'Montserrat', sans-serif;
+}
+
+input {
+    border: none;
+    padding: 2px;
+    margin-right: 10px;
+}
+
+#groups {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.row {
+    width: 80vw;
+    background: #e7bc54;
+    padding: 2vw 2vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.row a:link, a:visited {
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid #284B63;
+    padding: 1vh 2vw;
+    background-color: rgb(62, 111, 141);
+    color: white;
+    transition: background-color 1s;
+}
+
+.row a:hover {
+    background-color: #284B63;
+}
+
+.students {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex
 }
 
 #main-zoom {
