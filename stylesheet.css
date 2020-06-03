@@ -270,12 +270,22 @@ input {
     background-color: #284B63;
 }
 
+.name {
+    font-size: 1.5em;
+    font-family: 'Bebas Neue', cursive;
+    padding-left: 2vh;
+}
+
 .students {
-    width: 50%;
+    width: 60%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: flex-start;
+}
+
+.students span {
+    padding: 10px;
 }
 
 #main-zoom {

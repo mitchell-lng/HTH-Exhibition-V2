@@ -3,6 +3,7 @@ var data;
 $(document).ready(function () {
     loadData();
 
+
     $("#student").on("change paste keyup", function() {
         createPage();
     });
@@ -22,15 +23,20 @@ function createPage() {
     for (let x = 0; x < data.length; x++) {
         const i = data[x];
 
-        var search_student = $( "#student" ).val().toLowerCase();
+        let search_student = $("#student").val().toLowerCase();
         var student_names = i.students;
+        var studentFound = false;
         if (!("" == search_student)) {
-            for (var y = 0; y < i.length; y++) {
-                var name = student_names[y].toLowerCase();
-                if (name.match(search_student) == null) {               continue; 
+            for (var y = 0; y < student_names.length; y++) {
+                let name = student_names[y].toLowerCase();
+                if (name.match(search_student) != null) {
+                    studentFound = true; 
                 }
             }
-            
+        }
+        
+        if (studentFound === false && !("" == search_student)) {
+            continue;
         }
 
         const row = document.createElement("div");
