@@ -13,7 +13,6 @@ function resetPage() {
     while (document.getElementById("groups").children.length > 1) {
         gridView.removeChild(gridView.lastElementChild);
     }
-
 }
 
 function createPage() {
@@ -24,10 +23,10 @@ function createPage() {
         const i = data[x];
 
         var search_student = $( "#student" ).val().toLowerCase();
-        var student_name = i.teacher;
+        var student_names = i.students;
         if (!("" == search_student)) {
-            for (var y; y > i.length; y++) {
-                var name = y.toLowerCase();
+            for (var y = 0; y < i.length; y++) {
+                var name = student_names[y].toLowerCase();
                 if (name.match(search_student) == null) {               continue; 
                 }
             }
@@ -44,15 +43,27 @@ function createPage() {
         const students_div = document.createElement("div");
         students_div.setAttribute("class", "students");
 
+        const link = document.createElement("a");
+        link.setAttribute("href", i.link);
+        link.setAttribute("target", "_blank");
+        link.textContent = "Join";
+
+        row.append(group_name);
+        
+
         var students = i.students;
         students.sort();
         var student;
-        for (var z; z > i.students.length; z++) {
+        for (var z = 0; z < students.length; z++) {
             student = document.createElement("span");
             student.textContent = students[z];
+            students_div.append(student);
         }
 
-        groups.append(article);
+        row.append(students_div);
+        row.append(link);
+
+        groups.append(row);
     }
 }
 

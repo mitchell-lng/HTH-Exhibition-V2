@@ -1,0 +1,535 @@
+[
+    {
+        "student": "Taylor Guevara",
+        "groupNumber": "Group 1"
+    },
+    {
+        "student": "Parisa Vega",
+        "groupNumber": "Group 1"
+    },
+    {
+        "student": "Darien Castillo & Gabe Vitug",
+        "groupNumber": "Group 1"
+    },
+    {
+        "student": "Olivia Kries",
+        "groupNumber": "Group 1"
+    },
+    {
+        "student": "Fatma Abubaker",
+        "groupNumber": "Group 1"
+    },
+    {
+        "student": "Taher Hadi",
+        "groupNumber": "Group 1"
+    },
+    {
+        "student": "Tony Maldonado",
+        "groupNumber": "Group 2"
+    },
+    {
+        "student": "Alexa Hernandez",
+        "groupNumber": "Group 2"
+    },
+    {
+        "student": "Brenda Figueroa",
+        "groupNumber": "Group 2"
+    },
+    {
+        "student": "Caylee Pierce & Jamie Parsons",
+        "groupNumber": "Group 2"
+    },
+    {
+        "student": "Krasiba Camacho",
+        "groupNumber": "Group 2"
+    },
+    {
+        "student": "Victoria Williams",
+        "groupNumber": "Group 2"
+    },
+    {
+        "student": "Andres Sanchez",
+        "groupNumber": "Group 3",
+        "undefined": " "
+    },
+    {
+        "student": "Haley Helton",
+        "groupNumber": "Group 3"
+    },
+    {
+        "student": "Noah Elliott",
+        "groupNumber": "Group 3"
+    },
+    {
+        "student": "Bryson Fitzsimmons",
+        "groupNumber": "Group 3"
+    },
+    {
+        "student": "Lydia Dugger",
+        "groupNumber": "Group 3"
+    },
+    {
+        "student": "Jackson Berthiaume",
+        "groupNumber": "Group 3"
+    },
+    {
+        "student": "Maritza Cordoba",
+        "groupNumber": "Group 3"
+    },
+    {
+        "student": "Alexis Gutierrez",
+        "groupNumber": "Group 4"
+    },
+    {
+        "student": "Estrella Garcia",
+        "groupNumber": "Group 4"
+    },
+    {
+        "student": "Violet & Jesse Forest",
+        "groupNumber": "Group 4"
+    },
+    {
+        "student": "Ava Kern",
+        "groupNumber": "Group 4"
+    },
+    {
+        "student": "Brooklyn Arellano",
+        "groupNumber": "Group 4"
+    },
+    {
+        "student": "Emma Blancett",
+        "groupNumber": "Group 4"
+    },
+    {
+        "student": "Sebastian Guarernos",
+        "groupNumber": "Group 5"
+    },
+    {
+        "student": "Ethan Franco",
+        "groupNumber": "Group 5"
+    },
+    {
+        "student": "Delaney Moriarty",
+        "groupNumber": "Group 5"
+    },
+    {
+        "student": "Dominika Benitez",
+        "groupNumber": "Group 5"
+    },
+    {
+        "student": "Camryn Sinklier",
+        "groupNumber": "Group 5"
+    },
+    {
+        "student": "Elizabeth Bobryk-Ozaki",
+        "groupNumber": "Group 5"
+    },
+    {
+        "student": "Sydney Mercado",
+        "groupNumber": "Group 6"
+    },
+    {
+        "student": "Dammarys Martinez",
+        "groupNumber": "Group 6"
+    },
+    {
+        "student": "Jasmine Galvan",
+        "groupNumber": "Group 6"
+    },
+    {
+        "student": "Janeya Villa",
+        "groupNumber": "Group 6"
+    },
+    {
+        "student": "Maya Heinrichs",
+        "groupNumber": "Group 6"
+    },
+    {
+        "student": "Ezekiel Delgado",
+        "groupNumber": "Group 6"
+    },
+    {
+        "student": "Estefania Mora",
+        "groupNumber": "Group 7"
+    },
+    {
+        "student": "Diego Hays",
+        "groupNumber": "Group 7"
+    },
+    {
+        "student": "Caitlin Medina",
+        "groupNumber": "Group 7"
+    },
+    {
+        "student": "Zane Collins",
+        "groupNumber": "Group 7"
+    },
+    {
+        "student": "Nico Spilotro",
+        "groupNumber": "Group 7"
+    },
+    {
+        "student": "Gunnar Gammon",
+        "groupNumber": "Group 7"
+    },
+    {
+        "student": "Yeirah Huertas",
+        "groupNumber": "Group 8"
+    },
+    {
+        "student": "Jessica Romero",
+        "groupNumber": "Group 8"
+    },
+    {
+        "student": "Delia Graves",
+        "groupNumber": "Group 8"
+    },
+    {
+        "student": "Mexie Jimenez & Devon Konstanzer",
+        "groupNumber": "Group 8"
+    },
+    {
+        "student": "Lorenzo Contreras",
+        "groupNumber": "Group 8"
+    },
+    {
+        "student": "Stella Moran",
+        "groupNumber": "Group 8"
+    },
+    {
+        "student": "Emari Harvey",
+        "groupNumber": "Group 9"
+    },
+    {
+        "student": "Eric Lee Hosler",
+        "groupNumber": "Group 9"
+    },
+    {
+        "student": "Justis Vernon",
+        "groupNumber": "Group 9"
+    },
+    {
+        "student": "Anna Lewis",
+        "groupNumber": "Group 9"
+    },
+    {
+        "student": "Alex Archuleta",
+        "groupNumber": "Group 9"
+    },
+    {
+        "student": "Aiden Griner",
+        "groupNumber": "Group 9"
+    },
+    {
+        "student": "Kiara Martinez",
+        "groupNumber": "Group 10"
+    },
+    {
+        "student": "Miguel Esquivel",
+        "groupNumber": "Group 10"
+    },
+    {
+        "student": "Ethan Mayer",
+        "groupNumber": "Group 10"
+    },
+    {
+        "student": "Nicholas Chittadara & Michael Fraser",
+        "groupNumber": "Group 10"
+    },
+    {
+        "student": "Zalen Paulsen",
+        "groupNumber": "Group 10"
+    },
+    {
+        "student": "Ivan Rodriguez",
+        "groupNumber": "Group 10"
+    },
+    {
+        "student": "Kiana Mendeola",
+        "groupNumber": "Group 11"
+    },
+    {
+        "student": "Anette Bernal",
+        "groupNumber": "Group 11"
+    },
+    {
+        "student": "Ian Carey",
+        "groupNumber": "Group 11"
+    },
+    {
+        "student": "Bennet Moore",
+        "groupNumber": "Group 11"
+    },
+    {
+        "student": "Sophie Ellis",
+        "groupNumber": "Group 11"
+    },
+    {
+        "student": "Gen Livingston",
+        "groupNumber": "Group 11"
+    },
+    {
+        "student": "Izabelle Pusung",
+        "groupNumber": "Group 12"
+    },
+    {
+        "student": "Isaac Martinez",
+        "groupNumber": "Group 12"
+    },
+    {
+        "student": "Joseph Forde & Yasir Harrison",
+        "groupNumber": "Group 12"
+    },
+    {
+        "student": "Jonathan Moses McKoy",
+        "groupNumber": "Group 12"
+    },
+    {
+        "student": "Nithin Reddy",
+        "groupNumber": "Group 12"
+    },
+    {
+        "student": "Joey Castillo",
+        "groupNumber": "Group 12"
+    },
+    {
+        "student": "Lucia Quintanar",
+        "groupNumber": "Group 13"
+    },
+    {
+        "student": "Felix Vela",
+        "groupNumber": "Group 13"
+    },
+    {
+        "student": "Jasmine Pulido",
+        "groupNumber": "Group 13"
+    },
+    {
+        "student": "Nina Helms & Ryan Buse",
+        "groupNumber": "Group 13"
+    },
+    {
+        "student": "Oliver Buffington",
+        "groupNumber": "Group 13"
+    },
+    {
+        "student": "Zahid Mateos-Torres",
+        "groupNumber": "Group 13"
+    },
+    {
+        "student": "Elizabeth Gomez",
+        "groupNumber": "Group 13"
+    },
+    {
+        "student": "Jaime Rojas",
+        "groupNumber": "Group 14"
+    },
+    {
+        "student": "Nick Smith",
+        "groupNumber": "Group 14"
+    },
+    {
+        "student": "Aruro Becerra",
+        "groupNumber": "Group 14"
+    },
+    {
+        "student": "Clara Saluta",
+        "groupNumber": "Group 14"
+    },
+    {
+        "student": "Tamsen Brown",
+        "groupNumber": "Group 14"
+    },
+    {
+        "student": "Jonah Sands-Weinstein",
+        "groupNumber": "Group 14"
+    },
+    {
+        "student": "Monseratte Vargas",
+        "groupNumber": "Group 15"
+    },
+    {
+        "student": "Oscar Martinez",
+        "groupNumber": "Group 15"
+    },
+    {
+        "student": "Joe Cramer",
+        "groupNumber": "Group 15"
+    },
+    {
+        "student": "Nelson Walton",
+        "groupNumber": "Group 15"
+    },
+    {
+        "student": "Edward Hutchison",
+        "groupNumber": "Group 15"
+    },
+    {
+        "student": "Emily Fennessey",
+        "groupNumber": "Group 15"
+    },
+    {
+        "student": "Julian Roldan",
+        "groupNumber": "Group 16"
+    },
+    {
+        "student": "Gael Cruz",
+        "groupNumber": "Group 16"
+    },
+    {
+        "student": "Isabelle Richards & Andrew Mayer",
+        "groupNumber": "Group 16"
+    },
+    {
+        "student": "Tyrone King",
+        "groupNumber": "Group 16"
+    },
+    {
+        "student": "Adonijah Delacruz",
+        "groupNumber": "Group 16"
+    },
+    {
+        "student": "Zach Franey",
+        "groupNumber": "Group 16"
+    },
+    {
+        "student": "Rachel Helton",
+        "groupNumber": "Group 17"
+    },
+    {
+        "student": "Isaac Venegas",
+        "groupNumber": "Group 17"
+    },
+    {
+        "student": "Joshua Rysedorph",
+        "groupNumber": "Group 17"
+    },
+    {
+        "student": "Dayne Robinson & Garrett Bedford",
+        "groupNumber": "Group 17"
+    },
+    {
+        "student": "Ryan Yoshikawa",
+        "groupNumber": "Group 17"
+    },
+    {
+        "student": "Dayja Miller",
+        "groupNumber": "Group 17"
+    },
+    {
+        "student": "Diego Covert-Cuevas",
+        "groupNumber": "Group 18"
+    },
+    {
+        "student": "Diego Salvacion",
+        "groupNumber": "Group 18"
+    },
+    {
+        "student": "Joselyn Carrera Cortes",
+        "groupNumber": "Group 18"
+    },
+    {
+        "student": "Myra Weber & Gabby Kiefner",
+        "groupNumber": "Group 18"
+    },
+    {
+        "student": "Oscar Lorah",
+        "groupNumber": "Group 18"
+    },
+    {
+        "student": "Carter Kanigowski",
+        "groupNumber": "Group 18"
+    },
+    {
+        "student": "Bobby Lucero",
+        "groupNumber": "Group 19"
+    },
+    {
+        "student": "Cameron Bullock Parker",
+        "groupNumber": "Group 19"
+    },
+    {
+        "student": "Allan Brzezinski",
+        "groupNumber": "Group 19"
+    },
+    {
+        "student": "Sofia Frank",
+        "groupNumber": "Group 19"
+    },
+    {
+        "student": "Sasha Worden",
+        "groupNumber": "Group 19"
+    },
+    {
+        "student": "Ruby Sawah",
+        "groupNumber": "Group 19"
+    },
+    {
+        "student": "Nathan Samson",
+        "groupNumber": "Group 20"
+    },
+    {
+        "student": "Robert Cisneros",
+        "groupNumber": "Group 20"
+    },
+    {
+        "student": "Mari & Luka Modrusan",
+        "groupNumber": "Group 20"
+    },
+    {
+        "student": "Bear Scott",
+        "groupNumber": "Group 20"
+    },
+    {
+        "student": "Avery Whitney",
+        "groupNumber": "Group 20"
+    },
+    {
+        "student": "Colin Greenhill",
+        "groupNumber": "Group 20"
+    },
+    {
+        "student": "Emily Martinez",
+        "groupNumber": "Group 21"
+    },
+    {
+        "student": "Xzaveon Alvarez",
+        "groupNumber": "Group 21"
+    },
+    {
+        "student": "Azucena Cibrian & Sophia Herrera",
+        "groupNumber": "Group 21"
+    },
+    {
+        "student": "Tobi Morgan",
+        "groupNumber": "Group 21"
+    },
+    {
+        "student": "Noah Fletcher",
+        "groupNumber": "Group 21"
+    },
+    {
+        "student": "Alan Beyler",
+        "groupNumber": "Group 22"
+    },
+    {
+        "student": "Aaron Felix",
+        "groupNumber": "Group 22"
+    },
+    {
+        "student": "Gianna Salazar & Nicole Rollinson",
+        "groupNumber": "Group 22"
+    },
+    {
+        "student": "Micah Towensend",
+        "groupNumber": "Group 22"
+    },
+    {
+        "student": "Aeralyn Soukkeo",
+        "groupNumber": "Group 22"
+    },
+    {
+        "student": "Maziar Ebrahimi",
+        "groupNumber": "Group 22"
+    }
+]

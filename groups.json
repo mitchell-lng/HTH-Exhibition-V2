@@ -1,17 +1,267 @@
 [
     {
-        "name": "Group A",
+        "link": "",
+        "name": "Group 1",
         "students": [
-            "Mitchell Long",
-            "Scott Semtner"
-        ],
-        "link": "https://hthmfarmtomesa.com"
+            "Taylor Guevara",
+            "Parisa Vega",
+            "Darien Castillo & Gabe Vitug",
+            "Olivia Kries",
+            "Fatma Abubaker",
+            "Taher Hadi"
+        ]
     },
     {
-        "name": "Group B",
+        "link": "",
+        "name": "Group 2",
         "students": [
-            "Noah Fletcher",
-            "Avery Whitney"
+            "Tony Maldonado",
+            "Alexa Hernandez",
+            "Brenda Figueroa",
+            "Caylee Pierce & Jamie Parsons",
+            "Krasiba Camacho",
+            "Victoria Williams"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 3",
+        "students": [
+            "Andres Sanchez",
+            "Haley Helton",
+            "Noah Elliott",
+            "Bryson Fitzsimmons",
+            "Lydia Dugger",
+            "Jackson Berthiaume",
+            "Maritza Cordoba"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 4",
+        "students": [
+            "Alexis Gutierrez",
+            "Estrella Garcia",
+            "Violet & Jesse Forest",
+            "Ava Kern",
+            "Brooklyn Arellano",
+            "Emma Blancett"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 5",
+        "students": [
+            "Sebastian Guarernos",
+            "Ethan Franco",
+            "Delaney Moriarty",
+            "Dominika Benitez",
+            "Camryn Sinklier",
+            "Elizabeth Bobryk-Ozaki"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 6",
+        "students": [
+            "Sydney Mercado",
+            "Dammarys Martinez",
+            "Jasmine Galvan",
+            "Janeya Villa",
+            "Maya Heinrichs",
+            "Ezekiel Delgado"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 7",
+        "students": [
+            "Estefania Mora",
+            "Diego Hays",
+            "Caitlin Medina",
+            "Zane Collins",
+            "Nico Spilotro",
+            "Gunnar Gammon"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 8",
+        "students": [
+            "Yeirah Huertas",
+            "Jessica Romero",
+            "Delia Graves",
+            "Mexie Jimenez & Devon Konstanzer",
+            "Lorenzo Contreras",
+            "Stella Moran"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 9",
+        "students": [
+            "Emari Harvey",
+            "Eric Lee Hosler",
+            "Justis Vernon",
+            "Anna Lewis",
+            "Alex Archuleta",
+            "Aiden Griner"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 10",
+        "students": [
+            "Kiara Martinez",
+            "Miguel Esquivel",
+            "Ethan Mayer",
+            "Nicholas Chittadara & Michael Fraser",
+            "Zalen Paulsen",
+            "Ivan Rodriguez"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 11",
+        "students": [
+            "Kiana Mendeola",
+            "Anette Bernal",
+            "Ian Carey",
+            "Bennet Moore",
+            "Sophie Ellis",
+            "Gen Livingston"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 12",
+        "students": [
+            "Izabelle Pusung",
+            "Isaac Martinez",
+            "Joseph Forde & Yasir Harrison",
+            "Jonathan Moses McKoy",
+            "Nithin Reddy",
+            "Joey Castillo"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 13",
+        "students": [
+            "Lucia Quintanar",
+            "Felix Vela",
+            "Jasmine Pulido",
+            "Nina Helms & Ryan Buse",
+            "Oliver Buffington",
+            "Zahid Mateos-Torres",
+            "Elizabeth Gomez"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 14",
+        "students": [
+            "Jaime Rojas",
+            "Nick Smith",
+            "Aruro Becerra",
+            "Clara Saluta",
+            "Tamsen Brown",
+            "Jonah Sands-Weinstein"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 15",
+        "students": [
+            "Monseratte Vargas",
+            "Oscar Martinez",
+            "Joe Cramer",
+            "Nelson Walton",
+            "Edward Hutchison",
+            "Emily Fennessey"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 16",
+        "students": [
+            "Julian Roldan",
+            "Gael Cruz",
+            "Isabelle Richards & Andrew Mayer",
+            "Tyrone King",
+            "Adonijah Delacruz",
+            "Zach Franey"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 17",
+        "students": [
+            "Rachel Helton",
+            "Isaac Venegas",
+            "Joshua Rysedorph",
+            "Dayne Robinson & Garrett Bedford",
+            "Ryan Yoshikawa",
+            "Dayja Miller"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 18",
+        "students": [
+            "Diego Covert-Cuevas",
+            "Diego Salvacion",
+            "Joselyn Carrera Cortes",
+            "Myra Weber & Gabby Kiefner",
+            "Oscar Lorah",
+            "Carter Kanigowski"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 19",
+        "students": [
+            "Bobby Lucero",
+            "Cameron Bullock Parker",
+            "Allan Brzezinski",
+            "Sofia Frank",
+            "Sasha Worden",
+            "Ruby Sawah"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 20",
+        "students": [
+            "Nathan Samson",
+            "Robert Cisneros",
+            "Mari & Luka Modrusan",
+            "Bear Scott",
+            "Avery Whitney",
+            "Colin Greenhill"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 21",
+        "students": [
+            "Emily Martinez",
+            "Xzaveon Alvarez",
+            "Azucena Cibrian & Sophia Herrera",
+            "Tobi Morgan",
+            "Noah Fletcher"
+        ]
+    },
+    {
+        "link": "",
+        "name": "Group 22",
+        "students": [
+            "Alan Beyler",
+            "Aaron Felix",
+            "Gianna Salazar & Nicole Rollinson",
+            "Micah Towensend",
+            "Aeralyn Soukkeo",
+            "Maziar Ebrahimi"
         ]
     }
 ]
