@@ -1,12 +1,9 @@
 var data;
 
-$(document).ready(function () {
+document.addEventListener("DOMContentLoaded", function(event) { 
     loadData();
 
-
-    $("#student").on("change paste keyup", function() {
-        createPage();
-    });
+    document.getElementById("student").addEventListener("input", createPage);
 });
 
 function resetPage() {
@@ -23,7 +20,7 @@ function createPage() {
     for (let x = 0; x < data.length; x++) {
         const i = data[x];
 
-        let search_student = $("#student").val().toLowerCase();
+        let search_student = document.getElementById("student").value.toLowerCase()
         var student_names = i.students;
         var studentFound = false;
         if (!("" == search_student)) {

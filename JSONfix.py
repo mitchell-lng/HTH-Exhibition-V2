@@ -1,3 +1,5 @@
+# The variable names in this script are amazing
+
 import json
 
 groups = 22
